@@ -18,6 +18,9 @@ public class Prueba2 {
         // TODO code application logic here
         System.out.println("fdfdfdfljfogjfogj");
          System.out.println("hola mundo");
+         //FISEI FISEI FISEI
+         //
+         //CODIGO BINARIO
     }
     
 }
